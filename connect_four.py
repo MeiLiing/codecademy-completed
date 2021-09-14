@@ -139,7 +139,7 @@ while game_over == False:
   drop_piece(piece, column)
   print('Piece dropped on column {col}, row {row}.'.format(col = column, row = find_row(piece, column)+1))
   print_board()
-  # win check before tie check
+  # win check
   if win_vertical(piece, column) == True or win_diagonal(piece, column) == True or win_horizontal(piece, column) == True:
     game_over = True
     print('Congratulations Player {piece}! You WON!'.format(piece=piece))
