@@ -1,3 +1,5 @@
+-- Queries used in on-platform SQL project
+
 -- Get familiar with the data
 SELECT *
 FROM subscriptions
