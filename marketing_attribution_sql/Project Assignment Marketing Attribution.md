@@ -2,7 +2,7 @@
 
 ## 1. Get familiar with the company.
 
-- How many campaigns and sources does CoolTShirts use and how are they related? Be sure to explain the difference between `utm_campaign` and `utm_source`.
+- How many campaigns and sources does CoolTShirts use and how are they related?
 
   - The company has 8 campaigns and 6 sources. Each campaign is specific to only one source, as detailed in this table.
 
