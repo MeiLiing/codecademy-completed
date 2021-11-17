@@ -1,6 +1,6 @@
 # Data Analyst Career Path Projects
 
-This repository contains the off-platform projects and assignments that were completed as part of the Data Analyst Career Path on [Codecademy](https://www.codecademy.com/learn/paths/data-analyst).
+This repository contains the off-platform projects and assignments that were completed as part of the Data Analyst Career Path on [Codecademy](https://www.codecademy.com/learn/paths/data-analyst). The projects provided a way to exercise and now to showcase the skills acquired using **Python3**, **SQL**, **Pandas**, **NumPy**, **Matplotlip**, **Seaborn** and **SciPy**.
 
 They can be categorized as Exercise and Project notebooks, to which we can add subcategories of the main skill:
 
