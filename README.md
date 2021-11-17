@@ -11,7 +11,7 @@ They can be categorized as Exercise and Project notebooks, to which we can add s
      - [Life Expectancy and GDP](https://github.com/MeiLiing/codecademy-completed/tree/main/life_expectancy_gdp_project_analysis)
      - [Biodiversity in National Parks](https://github.com/MeiLiing/codecademy-completed/tree/main/biodiversity_national_parks_analysis)
      - [Roller Coasters](https://github.com/MeiLiing/codecademy-completed/tree/main/roller_coasters)
-     - [Jeopardy](https://github.com/MeiLiing/codecademy-completed/tree/main/jeopardy_analysis_python) - needs update
+     - [Jeopardy](https://github.com/MeiLiing/codecademy-completed/tree/main/jeopardy_analysis_python)
    - Python3
      - [Connect Four](https://github.com/MeiLiing/codecademy-completed/blob/main/connect_four.py) - Yes, the game. Run it in your terminal!
      - [U.S. Medical Insurance Costs](https://github.com/MeiLiing/codecademy-completed/tree/main/us-medical-insurance-costs)
